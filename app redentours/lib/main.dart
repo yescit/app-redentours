@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-final color = const Color(0xff3363ac);
+final color = const Color(0xffffffff);
 class SRA extends StatefulWidget {
   @override
   _SRAState createState() => _SRAState();
