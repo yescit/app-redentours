@@ -1,4 +1,4 @@
-package com.example.esep;
+package com.example.redentours;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

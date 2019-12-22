@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.esep"
+    package="com.example.redentours"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0.0" >
@@ -26,9 +26,9 @@
         android:name="io.flutter.app.FlutterApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
-        android:label="esep" >
+        android:label="redentours" >
         <activity
-            android:name="com.example.esep.MainActivity"
+            android:name="com.example.redentours.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:hardwareAccelerated="true"
             android:launchMode="singleTop"
@@ -87,7 +87,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.example.esep.fileprovider"
+            android:authorities="com.example.redentours.fileprovider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -117,7 +117,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.example.esep.firebaseinitprovider"
+            android:authorities="com.example.redentours.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

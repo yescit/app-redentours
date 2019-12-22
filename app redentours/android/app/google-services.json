@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "423030984051",
-    "firebase_url": "https://esep-sweet.firebaseio.com",
-    "project_id": "esep-sweet",
-    "storage_bucket": "esep-sweet.appspot.com"
+    "firebase_url": "https://redentours-sweet.firebaseio.com",
+    "project_id": "redentours-sweet",
+    "storage_bucket": "redentours-sweet.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:423030984051:android:01b14aea1c3fd275",
         "android_client_info": {
-          "package_name": "com.example.esep"
+          "package_name": "com.example.redentours"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "423030984051-qs6rjc9c6k7vqi69tq8epds4fs4pmbap.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.esep",
+            "package_name": "com.example.redentours",
             "certificate_hash": "903e4b87971fc45f6521f6b31c53c1bebd2374ec"
           }
         },
