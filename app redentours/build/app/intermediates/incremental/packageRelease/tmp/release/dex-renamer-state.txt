@@ -1,0 +1,4 @@
+#Wed Dec 18 22:46:45 CET 2019
+base.0=C\:\\Users\\Daniele Fois\\Desktop\\Projects\\app-redentours\\app redentours\\build\\app\\intermediates\\transforms\\r8\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

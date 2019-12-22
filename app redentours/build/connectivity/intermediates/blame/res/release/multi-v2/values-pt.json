@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Daniele Fois\\Desktop\\Projects\\app-redentours\\app redentours\\build\\connectivity\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Daniele Fois\\.gradle\\caches\\transforms-2\\files-2.1\\c4e98c69fd232a00ad2b99d1cb805324\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Daniele Fois\\Desktop\\Projects\\app-redentours\\app redentours\\build\\connectivity\\intermediates\\res\\merged\\release\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Daniele Fois\\.gradle\\caches\\transforms-2\\files-2.1\\c4e98c69fd232a00ad2b99d1cb805324\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
